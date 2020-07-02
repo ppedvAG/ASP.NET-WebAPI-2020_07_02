@@ -1,0 +1,16 @@
+Database First -> Datenbank existiert -> Tabellen-Klassen + DBContext werden erstellt. 
+Nachteil ist: Bei Änderung des DB Schemas, müssen die Tabellen-Klasse
+
+
+
+CodeFirst: -> Keine Datenbank vorhanden. Via Quellcode kann ich eine Datenbank-Schema beschreiben und dieses Schema auf die DB-Server ausrollen
+Vorteil: -> Es bieten mehrere Datenbanksysteme an. (Provider muss verhanden)
+Nachteil: -> Stored Proceduren nicht mit C# abgebildet werden können. 
+
+
+CodeFirst Reverse: -> vorhandene Datenbank -> Tabelle ü Klassen werden erstellt!
+ABER! So dargestellt, wie in CodeFirst. Bedeutet. Einmal DB auslesen, danach via C# Schema anpassen oder neue Version der Datenbank via Code manipulieren
+Nachteil: -> Stored Proceduren können nicht mit c# nachgebaut werden. 
+
+
+

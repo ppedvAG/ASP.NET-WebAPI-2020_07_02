@@ -1,0 +1,13 @@
+Freitag:
+
+- WebFilters
+- Action Results 
+- Formatters -> JSON/XML...
+
+- WebAPI Caching
+
+- WebAPI mit EF + Seperaten ASP.NET MVC
+
+- Authentifizierung
+
+- WebAPI mit EF Core + Seperaten ASP.NET Core
