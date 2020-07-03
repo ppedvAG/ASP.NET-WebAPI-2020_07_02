@@ -25,14 +25,14 @@ namespace _005WebAPIParameterBinding.Controllers
             return student;
         }
 
-        //public string Get(int id, string name)
-        //{
-        //    Student student = new Student(123, "Horst");
+        public string Get(int id, string name)
+        {
+            Student student = new Student(123, "Horst");
 
-        //    return "abc";
-        //}
+            return "abc";
+        }
 
-        public Student Get( string name, int id=1224)
+        public Student Get( string name1, int id=1224)
         {
             Student student = new Student(123, "Horst");
 

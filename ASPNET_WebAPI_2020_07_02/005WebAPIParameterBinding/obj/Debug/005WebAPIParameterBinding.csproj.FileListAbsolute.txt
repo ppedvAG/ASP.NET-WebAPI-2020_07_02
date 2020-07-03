@@ -64,3 +64,4 @@ C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\005WebAPIPa
 C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\005WebAPIParameterBinding\obj\Debug\005WebAPIParameterBinding.csproj.CopyComplete
 C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\005WebAPIParameterBinding\obj\Debug\005WebAPIParameterBinding.dll
 C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\005WebAPIParameterBinding\obj\Debug\005WebAPIParameterBinding.pdb
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\005WebAPIParameterBinding\obj\Debug\005WebAPIParameterBinding.csprojAssemblyReference.cache

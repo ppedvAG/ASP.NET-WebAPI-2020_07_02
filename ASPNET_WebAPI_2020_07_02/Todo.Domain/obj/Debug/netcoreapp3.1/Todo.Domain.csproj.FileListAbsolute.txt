@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.deps.json
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfo.cs
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.pdb

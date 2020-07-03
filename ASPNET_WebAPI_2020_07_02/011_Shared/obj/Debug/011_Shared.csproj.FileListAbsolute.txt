@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\011_Shared\bin\Debug\011_Shared.dll
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\011_Shared\bin\Debug\011_Shared.pdb
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\011_Shared\obj\Debug\011_Shared.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\011_Shared\obj\Debug\011_Shared.dll
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\011_Shared\obj\Debug\011_Shared.pdb

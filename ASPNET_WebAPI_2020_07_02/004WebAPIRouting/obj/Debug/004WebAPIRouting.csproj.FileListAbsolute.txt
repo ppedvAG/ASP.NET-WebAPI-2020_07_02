@@ -64,3 +64,4 @@ C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\004WebAPIRo
 C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\004WebAPIRouting\obj\Debug\004WebAPIRouting.csproj.CopyComplete
 C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\004WebAPIRouting\obj\Debug\004WebAPIRouting.dll
 C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\004WebAPIRouting\obj\Debug\004WebAPIRouting.pdb
+C:\Aktueller Kurs\ASP.NET-WebAPI-2020_07_02\ASPNET_WebAPI_2020_07_02\004WebAPIRouting\obj\Debug\004WebAPIRouting.csprojAssemblyReference.cache

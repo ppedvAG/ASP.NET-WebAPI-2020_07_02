@@ -17,7 +17,7 @@ namespace _004WebAPIRouting.Controllers
             return new string[] { "value1", "value2" };
         }
 
-        // GET: api/School/5
+        [Route("api/student/names/{id}")]
         public string Get(int id)
         {
             return "value";

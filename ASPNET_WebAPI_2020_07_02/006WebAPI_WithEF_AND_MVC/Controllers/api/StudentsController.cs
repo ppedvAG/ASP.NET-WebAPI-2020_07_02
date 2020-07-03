@@ -17,12 +17,12 @@ namespace _006WebAPI_WithEF_AND_MVC.Controllers
         private SchoolDBEntities db = new SchoolDBEntities();
 
         // GET: api/Students
-        public IQueryable<Student> GetStudents()
-        {
-            return db.Students;
-        }
+        //public IQueryable<Student> GetStudents()
+        //{
+        //    return db.Students;
+        //}
 
-        public List<Student> GetStudentsAlternative()
+        public IEnumerable<Student> GetStudentsAlternative()
         {
             return db.Students.ToList();
         }
@@ -86,7 +86,7 @@ namespace _006WebAPI_WithEF_AND_MVC.Controllers
             {
                 return BadRequest(ModelState);
             }
-            db.Database.BeginTransaction();
+
             db.Students.Add(student);
             db.SaveChanges();
 

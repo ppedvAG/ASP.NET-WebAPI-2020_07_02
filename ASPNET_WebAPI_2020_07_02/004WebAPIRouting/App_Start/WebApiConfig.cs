@@ -150,15 +150,26 @@ namespace _004WebAPIRouting
 
             config.MapHttpAttributeRoutes();
 
-            //Configure Multiple Routes
-            // school route
-            config.Routes.MapHttpRoute(
-                name: "School",
-                routeTemplate: "api/myschool/{id}",
-                defaults: new { controller = "school", id = RouteParameter.Optional },
-                constraints: new { id = "/d+" }
-            );
+            ////Configure Multiple Routes
+            //// school route
+            //config.Routes.MapHttpRoute(
+            //    name: "School",
+            //    routeTemplate: "api/myschool/{id}",
+            //    defaults: new { controller = "school", id = RouteParameter.Optional },
+            //    constraints: new { id = "/d+" }
+            //);
 
+
+
+
+
+            
+
+            config.Routes.MapHttpRoute(
+               name: "Root",
+               routeTemplate: "api/root/{id}",
+               defaults: new { controller = "customers", id = RouteParameter.Optional }
+            );
 
             //The MapHttpRoute() extension method erstellt intern eine Instance von IHttpRoute
             // default route
@@ -168,7 +179,7 @@ namespace _004WebAPIRouting
                 defaults: new { id = RouteParameter.Optional }
             );
 
-            }
+        }
 
 
 

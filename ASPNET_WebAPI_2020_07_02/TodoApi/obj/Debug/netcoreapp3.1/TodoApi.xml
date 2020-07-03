@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TodoApi</name>
+    </assembly>
+    <members>
+        <member name="M:TodoApi.Controllers.BlogController.GetBlog">
+            <summary>
+            Gebe mir eine Liste von Blogs zurück
+            </summary>
+            <returns>IEnumerable Blog </returns>
+        </member>
+        <member name="M:TodoApi.Controllers.BlogController.GetBlog(System.Int32)">
+            <summary>
+            Lese Blog-Entity aus
+            </summary>
+            <param name="id">Blog.Id</param>
+            <returns>Blog</returns>
+        </member>
+        <member name="M:TodoApi.Controllers.BlogController.PutBlog(System.Int32,Todo.Domain.Entities.Blog)">
+            <summary>
+            LaLeLu
+            </summary>
+            <param name="id">Blog Id</param>
+            <param name="blog">asdasdfasdf</param>
+            <returns></returns>
+        </member>
+        <member name="M:TodoApi.Controllers.BlogController.PostBlog(Todo.Domain.Entities.Blog)">
+             <remarks>
+             Sample request:
+            
+                 POST /Blog
+                 {
+                    "id": 1,
+                    "name": "Blog1",
+                    "isComplete": true
+                 }
+            
+             </remarks>
+        </member>
+    </members>
+</doc>
